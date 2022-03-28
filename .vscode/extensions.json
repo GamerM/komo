@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "msjsdiag.vscode-react-native",
+        "xabikos.javascriptsnippets",
+        "mgmcdermott.vscode-language-babel",
+        "dannark.androidlauncher",
+    ]
+}
